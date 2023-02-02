@@ -1,0 +1,11 @@
+Desafio 1 - exer 2
+
+Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado
+
+Desafio 2 - exer 3
+
+Crie um script Python que leia o dia, mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada
+
+Desafio 3 - exer 4
+
+Crie um script Python que leia dois números e tente mostrar a soma entre eles.
