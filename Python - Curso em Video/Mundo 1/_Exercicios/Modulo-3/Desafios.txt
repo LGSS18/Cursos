@@ -1,0 +1,45 @@
+Desafio 3
+
+Crie um programa que leia dois número e mostre a soma entre eles.
+
+Desafio 4
+Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas informações possíveis sobre ele.
+
+Desafio 5
+
+Faça um programa que leia um número inteiro e mostre na tela seu sucessor e seu antecessor.
+
+Desafio 6
+
+Crie um algoritmo que leia um número e mostre o seu dobro, triplo e a raiz quadrada.
+
+Desafio 7
+
+Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+
+Desafio 8
+
+Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+
+Desafio 9
+
+Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+Desafio 10
+
+Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar.
+
+US$ 1.00 = R$ 3.27
+e cotação atual
+
+Desafio 11
+
+Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2m².
+
+Desafio 12
+
+Faça um algoritmo que leia o preço de um produto e mostre seu preço, com 5% de desconto.
+
+Desafio 13
+
+Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
