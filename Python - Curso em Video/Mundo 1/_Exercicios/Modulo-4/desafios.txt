@@ -1,0 +1,59 @@
+16
+
+Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua porção inteira.
+
+17
+
+Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo, calcule e mostre o comprimento da hipotenusa.
+
+18
+
+Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+
+19
+
+Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
+
+20
+
+O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatros alunos e mostre a ordem.
+
+21
+
+Faça um programa em python que abra e reproduza o áudio de um arquivo mp3.
+
+22
+
+Crie um programa que leia o nome completo de uma pessoa e mostre:
+- O nome dela com todas as letras em maiúscula.
+- O nome dela com todas as letras em minúscula.
+- Quantas letras ao todo (sem considerar espaços).
+- Quantas letras tem o primeiro nome.
+
+23
+
+Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos seus digitos separados.
+
+ex: número 123
+centena: 1
+dezena: 2
+unidade: 3
+
+24
+
+Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
+
+25
+
+Crie um programa que leia o nome de uma pessoa e diga se ela tem "Silva" no nome.
+
+26
+
+Faça um programa que leia uma frase pelo teclado e mostre:
+- Quantas vezes aparece a letra "A".
+- Em que posição ela aparece a primeira vez.
+- em que posição ela aparece a última vez.
+
+27
+
+Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
