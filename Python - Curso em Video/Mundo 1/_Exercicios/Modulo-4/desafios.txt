@@ -52,7 +52,7 @@ Crie um programa que leia o nome de uma pessoa e diga se ela tem "Silva" no nome
 Faça um programa que leia uma frase pelo teclado e mostre:
 - Quantas vezes aparece a letra "A".
 - Em que posição ela aparece a primeira vez.
-- em que posição ela aparece a última vez.
+- Em que posição ela aparece a última vez.
 
 27
 
